@@ -1,5 +1,5 @@
 {
-    "token": "OTMzMjkwMDQzNDcxMTkyMTA1.YefYFg.BiLrcAZe3H8jYFCcIpifH34w8_M",
+    "token": "",
     "prefix": "!",
     "MongoConnectionUrl": "mongodb+srv://dbmab:eUtbAuei6mpLoinz@cluster0.r2c3m.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "defaultCooldown": 1,
