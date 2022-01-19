@@ -1,7 +1,7 @@
 {
-    "token": "YOUR_BOT_TOKEN",
-    "prefix": "",
-    "MongoConnectionUrl": "",
+    "token": "OTMzMjkwMDQzNDcxMTkyMTA1.YefYFg.BiLrcAZe3H8jYFCcIpifH34w8_M",
+    "prefix": "!",
+    "MongoConnectionUrl": "mongodb+srv://dbmab:eUtbAuei6mpLoinz@cluster0.r2c3m.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "defaultCooldown": 1,
-    "accentColor": ""
+    "accentColor": "black"
 }
